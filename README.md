@@ -1,6 +1,6 @@
 # Calculator
 This is a Calculator Project where I used  CSS and html Language Only<br>
-<a href="https://github.com/ashish2030/pacman-Game/fork" target="blank">
+<a href="https://github.com/ashish2030/Calculator/fork" target="blank">
 
 <p align="center">
   <img src="https://img.shields.io/github/forks/ashish2030/Calculator?style=flat-square" alt="github-profile-readme-generator forks"/>
