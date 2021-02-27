@@ -17,9 +17,9 @@ This is a Calculator Project where I used  CSS and html Language Only<br>
   </p>
 <p align="center"><img src="https://github.com/Ashish2030/Calculator/blob/main/image/calculator_video.gif" width="750px" height="300px"></p>
 <p align="center">
-    <a href="https://github.com/Ashish2030/pacman-Game" target="blank">View Demo</a>
+    <a href="https://github.com/Ashish2030/Calculator" target="blank">View Demo</a>
     ·
-    <a href="https://github.com/ashish2030/pacman-Game/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/ashish2030/Calculator/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/ashish2030/pacman-Game/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/ashish2030/Calculator/issues/new/choose">Request Feature</a>
 </p>
