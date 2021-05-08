@@ -15,6 +15,10 @@ This is a Calculator Project where I used  CSS and html Language Only<br>
 <img src="https://img.shields.io/github/issues-pr/ashish2030/Calculator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
 </a>
   </p>
+  
+  [![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Calculator)](https://github.com/ashish2030/Calculator/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Calculator)](https://github.com/ashish2030/Calculator/archive/master.zip)
+ 
 <p align="center"><img src="https://github.com/Ashish2030/Calculator/blob/main/image/calculator_video.gif" width="750px" height="300px"></p>
 <p align="center">
     <a href="https://ashish2030.github.io/Calculator/Calculator.html" target="blank">View Demo</a>
