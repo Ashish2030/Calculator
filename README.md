@@ -19,7 +19,10 @@ This is a Calculator Project where I used  CSS and html Language Only<br>
   [![GitHub last commit](https://img.shields.io/github/last-commit/ashish2030/Calculator)](https://github.com/ashish2030/Calculator/commits/master)
 [![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/Calculator)](https://github.com/ashish2030/Calculator/archive/master.zip)
  
-<p align="center"><img src="https://github.com/Ashish2030/Calculator/blob/main/image/calculator_video.gif" width="750px" height="300px"></p>
+
+https://user-images.githubusercontent.com/61516051/117540037-e14d8100-b02a-11eb-9b98-b09dd4bf2a77.mp4
+
+
 <p align="center">
     <a href="https://ashish2030.github.io/Calculator/Calculator.html" target="blank">View Demo</a>
     ·
